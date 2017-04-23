@@ -6,6 +6,12 @@ prints which app (default or otherwise) that the files were opened with.
 
 
 
+delete function from Morgant (Morgan Aldridge) GitHub
+https://github.com/morgant
+https://github.com/morgant/tools-osx
+
+
+
 
 --Extra--
 I'd appreciate any help/contributions/pointers on how to improve because its my first time publishing anything on GitHub
