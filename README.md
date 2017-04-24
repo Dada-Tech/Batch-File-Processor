@@ -23,3 +23,5 @@ I'd appreciate any help/contributions/pointers on how to improve because its my 
 Also on the Alfred Workflow itself as I am new to that as well.
 
 Enjoy!
+
+Iconset from https://icons8.com/web-app/category/nolan/Very-Basic
