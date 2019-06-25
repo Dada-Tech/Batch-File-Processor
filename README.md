@@ -1,4 +1,4 @@
-# Alfred-Torrent-Workflow
+# Alfred-Workflow
 Primarily to start all torrent files in specified (or defult) torrent app like uTorrent, etc.
 Also Streamlines opening deleting multiple files associated with torrent files (.torrent,.download,.dmg,.zip,.rar)
 
